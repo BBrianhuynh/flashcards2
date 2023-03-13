@@ -1,0 +1,40 @@
+.front {
+  width: 600px;
+  height: 200px;
+    background-color: #333;
+    color: #fff;
+    font-size: 60px;
+    margin: 20px;
+    border-Radius: 4px;
+    text-Align: center;
+    padding: 100px;
+}
+
+.back {
+  width: 600px;
+  height: 200px;
+    background-color: #fff;
+    font-size: 60px;
+    margin: 20px;
+    border-Radius: 4px;
+    text-Align: center;
+    padding: 100px;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button{
+  background-color: #333;
+  color:#fff
+}
+.wrong{
+  border: 3px solid red;
+}
+.correct{
+  border: 3px solid green;
+}
